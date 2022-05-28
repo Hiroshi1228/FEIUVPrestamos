@@ -14,7 +14,7 @@
 	<name>articulos</name>
 	<description>WS para llevar un control de prestamos en la facultad en una BD</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

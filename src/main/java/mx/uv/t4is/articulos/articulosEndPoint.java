@@ -31,7 +31,7 @@ public class articulosEndPoint {
     ----------------------------- Ejemplo JSON para envío y guardado de articulo ----------------------
 
     {
-        "nombre":"Control 106",
+        "nombre":"Proyector",
         "tipo":"Audiovisual",
         "lugar":"Centro de cómputo"
     }
@@ -57,10 +57,10 @@ public class articulosEndPoint {
 
     ----------------------------- Ejemplo JSON para envío y guardado de prestamo ----------------------
     {
-        "articuloPrestado":"Control 106",
-        "prestatario":"zS18014524",
-        "lugarP":"Aula 106",
-        "horaPrestamo":"16:02"
+        "articuloPrestado":"Proyector",
+        "prestatario":"zS18015986",
+        "lugarP":"Aula TC",
+        "horaPrestamo":"11:02"
     }
 
     */
